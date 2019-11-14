@@ -1,0 +1,31 @@
+[{
+    "ID":"001",
+    "Name":"Testuser",
+    "Email":"testuser@training.com",
+    "address":"India"
+},{
+    "ID":"002",
+    "Name":"Testuser-1",
+    "Email":"testuser1@training.com",
+    "address":"USA"
+},{
+    "ID":"003",
+    "Name":"Testuser-2",
+    "Email":"testuser2@training.com",
+    "address":"UK"
+},{
+    "ID":"004",
+    "Name":"Testuser-3",
+    "Email":"testuser3@training.com",
+    "address":"china"
+   },{
+    "ID":"005",
+    "Name":"Testuser-4",
+    "Email":"testuser4@training.com",
+    "address":"china"
+   },{
+    "ID":"006",
+    "Name":"Testuser-5",
+    "Email":"testuser5@training.com",
+    "address":"London"
+   }]
